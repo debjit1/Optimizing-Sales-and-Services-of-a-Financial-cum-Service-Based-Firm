@@ -285,54 +285,13 @@ Based on the analysis, the project recommends:
 9.  **Regularly monitor portfolios and market conditions** so that
     recommendations remain aligned with client goals.
 
-------------------------------------------------------------------------
-
-## 📁 Suggested Repository Structure
-
-``` text
-.
-├── README.md
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── README.md
-├── notebooks/
-│   ├── data_preprocessing.ipynb
-│   ├── trend_analysis.ipynb
-│   ├── risk_clustering.ipynb
-│   └── fund_performance_analysis.ipynb
-├── analysis/
-│   ├── scripts/
-│   └── outputs/
-├── reports/
-│   ├── proposal/
-│   ├── midterm/
-│   └── final/
-└── docs/
-    └── risk_assessment/
-```
-
-> The structure above is a suggested organization for the GitHub
-> repository. Rename or remove folders to match the actual files
-> included in the repository.
-
+-------------------------------------------------------
 ------------------------------------------------------------------------
 
 ## 🔐 Data Privacy
 
 The underlying business data contains investor and transaction-related
-information. Sensitive or personally identifiable business/client data
-should **not be committed to a public GitHub repository**.
-
-For a public repository, use:
-
--   Anonymized datasets
--   Aggregated results
--   Sample/demo data
--   Screenshots of charts without personal information
-
-Keep original/raw business data in a secure private location.
-
+information. Sensitive or personally identifiable business/client data are not uploaded for privacy concern
 ------------------------------------------------------------------------
 
 ## 📚 Project Reports
