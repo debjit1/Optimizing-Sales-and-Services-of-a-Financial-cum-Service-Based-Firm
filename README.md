@@ -291,6 +291,7 @@ Based on the analysis, the project recommends:
 ## 🔐 Data Privacy
 
 The underlying business data contains investor- and transaction-related information. To protect privacy and maintain confidentiality, sensitive or personally identifiable client and business data have not been uploaded or included in this report.
+
 ------------------------------------------------------------------------
 
 ## 📚 Project Reports
